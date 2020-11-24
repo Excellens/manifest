@@ -1,3 +1,7 @@
 # excellens/manifest
 
-Find the phpstorm code style this repository.
+The code style `.editorconfig` for phpstorm.
+
+## License
+
+It's MIT.

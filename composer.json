@@ -1,0 +1,14 @@
+{
+  "name": "excellens/manifest",
+  "description": "The code style .editorconfig for phpstorm.",
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcel",
+      "email": "github@gameplayjdk.de"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
